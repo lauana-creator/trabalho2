@@ -1,0 +1,16 @@
+.Header{
+
+    
+    background-color: rgb(250, 206, 61);
+    height:150px;
+    width: 100%;
+   
+}
+.logo{
+    height:600px;
+    width:600px;
+    position: relative;
+    top: -150px;
+    right:1%;
+
+}

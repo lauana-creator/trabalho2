@@ -1,0 +1,12 @@
+.Footer{
+
+    
+    background-color: rgb(250, 206, 61);
+    position: absolute;
+    height:150px;
+    width: 100%;
+    bottom: -1250px;
+    font-family: cursive;
+    
+   
+}
